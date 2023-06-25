@@ -15,9 +15,13 @@
 ```
 
 `main.m`文件为项目主入口文件
+
 `encoding.m`为编码函数
+
 `decoding.m`为解码函数
+
 `get_fitness.m`为计算适应度函数
+
 `check_range.m`为约束优化函数
 
 `model.slx`为**Simulink**仿真模型
